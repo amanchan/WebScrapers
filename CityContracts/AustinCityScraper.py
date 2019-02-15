@@ -1,22 +1,7 @@
 #-------------------------------------------------------------------------------
 # Name:        AustinCityScraper
 # Purpose:  To automate retrieval of data from website
-#       http://dallascityhall.com/departments/sustainabledevelopment/buildinginspection/Pages/permit_reports2.aspx'
-#       This site accepts a search string like 'Comcast' and takes you to page
-#       http://licensing.copyright.gov/search/DisplayLegalName.jsp
-#       From this page, user can select the actual company name and view
-#       associated information (ID number, first community and state) on page
-#       http://licensing.copyright.gov/search/SelectCommunity.jsp
-#       From this page user select the community,
-#       then click appropriate button to view either filing period or
-#       associated communities information.
-#       Get Filing Periods take you to page
-#       http://licensing.copyright.gov/search/SelectFilingPeriod2.jsp
-#       Get Associated communities takes you to page:
-#       http://licensing.copyright.gov/search/DisplayAssociatedCommunities.jsp
-#       You can go to the associated communities page given beow from
-#       "Filing Periods" page as well
-#       http://licensing.copyright.gov/search/DisplayAssociatedCommunities2.jsp
+#       http://www.austintexas.gov
 # Author:      AnilM
 #
 # Created:     06/02/2015
